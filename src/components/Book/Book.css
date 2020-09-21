@@ -1,0 +1,33 @@
+.book-container{     
+    width: 1110px; 
+    height:664px;  
+    margin:auto; 
+    background-image:url('../../image/img/coxbazar1.png');
+    }
+    .book-form{
+        margin: 30px 100px;       
+    }
+    .book-form input{
+     display: block;
+     margin-top: 30px;
+     padding: 5px;
+     border: 1px solid lightgray ;
+     border-radius: 5px;
+     width: 300px;
+    }
+    .error{
+        color:red;
+    }
+    .book-left{
+        width:200px;
+        margin-left: 100px;
+        margin-top:200px;
+        color:white;
+    }
+    .book-right{
+        margin-right: 50px;
+        border:1px solid black;     
+        height: 450px;
+        background:white;
+        margin-top:100px;
+    }

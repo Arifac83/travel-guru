@@ -1,0 +1,9 @@
+.home{
+    height: 700px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.home-container{
+    padding: 120px 0;
+}

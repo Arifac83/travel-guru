@@ -1,0 +1,28 @@
+.header-container{
+    width:1110px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #ffff;
+}
+.logo{
+    width: 200px;
+    height: 20px;
+    color:#E0A800;
+    margin-left: 40px; 
+    margin-bottom: 30px;
+}
+ .nav-link{
+    margin-right: 30px;  
+    color:#2B2B2B!important;   
+}
+.nav .nav-link:hover{
+    color:#E0A800!important;   
+}
+.logBtn{
+    background-color:#E0A800;
+    color: black;
+}
+.logBtn:hover{
+    background-color:#E0A800;
+    color: white;
+}
